@@ -1,4 +1,3 @@
-
 # Code Watch
 
 <div align="center">
@@ -31,14 +30,14 @@ Code Watch is a multidisciplinary web development team focused on building moder
 
 Our team combines specialists from different fields of digital production, including:
 
-* Front-End Development
-* Back-End Development
-* UI/UX Design
-* Graphic Design
-* Web Architecture
-* Database Design
-* Performance Optimization
-* Technical Consulting
+- Front-End Development
+- Back-End Development
+- UI/UX Design
+- Graphic Design
+- Web Architecture
+- Database Design
+- Performance Optimization
+- Technical Consulting
 
 Our mission is simple:
 
@@ -58,12 +57,12 @@ To become a trusted web development organization capable of delivering professio
 
 ## 🏆 Our Goals
 
-* Develop high-quality web applications
-* Build scalable software architectures
-* Deliver exceptional user experiences
-* Follow modern development standards
-* Encourage teamwork and knowledge sharing
-* Continuously learn and adopt new technologies
+- Develop high-quality web applications
+- Build scalable software architectures
+- Deliver exceptional user experiences
+- Follow modern development standards
+- Encourage teamwork and knowledge sharing
+- Continuously learn and adopt new technologies
 
 ---
 
@@ -99,38 +98,38 @@ Building custom platforms, dashboards, management systems, and business applicat
 
 ### Front-End
 
-* HTML5
-* CSS3
-* JavaScript
-* TypeScript
-* React
-* Next.js
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React
+- Next.js
 
 ### Back-End
 
-* Node.js
-* PHP
-* Express.js
-* REST API
+- Node.js
+- PHP
+- Express.js
+- REST API
 
 ### Database
 
-* MySQL
-* PostgreSQL
-* MongoDB
+- MySQL
+- PostgreSQL
+- MongoDB
 
 ### Design
 
-* Figma
-* Adobe Photoshop
-* Adobe Illustrator
+- Figma
+- Adobe Photoshop
+- Adobe Illustrator
 
 ### Tools
 
-* Git
-* GitHub
-* VS Code
-* Docker
+- Git
+- GitHub
+- VS Code
+- Docker
 
 ---
 
@@ -164,13 +163,13 @@ Providing updates, improvements, and support.
 
 ## 💡 Core Principles
 
-* Clean Code
-* Security First
-* Performance Matters
-* User-Centered Design
-* Continuous Learning
-* Team Collaboration
-* Long-Term Maintainability
+- Clean Code
+- Security First
+- Performance Matters
+- User-Centered Design
+- Continuous Learning
+- Team Collaboration
+- Long-Term Maintainability
 
 ---
 
@@ -190,14 +189,14 @@ Code Watch یک تیم توسعه وب چندتخصصی است که با هدف 
 
 اعضای تیم ما از حوزه‌های مختلف تولید محصولات دیجیتال تشکیل شده‌اند، از جمله:
 
-* توسعه فرانت‌اند
-* توسعه بک‌اند
-* طراحی رابط و تجربه کاربری
-* طراحی گرافیک
-* معماری نرم‌افزار
-* طراحی پایگاه داده
-* بهینه‌سازی عملکرد
-* مشاوره فنی
+- توسعه فرانت‌اند
+- توسعه بک‌اند
+- طراحی رابط و تجربه کاربری
+- طراحی گرافیک
+- معماری نرم‌افزار
+- طراحی پایگاه داده
+- بهینه‌سازی عملکرد
+- مشاوره فنی
 
 هدف ما تنها نوشتن کد نیست.
 
@@ -215,12 +214,12 @@ Code Watch یک تیم توسعه وب چندتخصصی است که با هدف 
 
 ## 🏆 اهداف ما
 
-* توسعه نرم‌افزارهای وب باکیفیت
-* ایجاد معماری‌های پایدار و مقیاس‌پذیر
-* ارائه تجربه کاربری حرفه‌ای
-* رعایت استانداردهای مدرن توسعه نرم‌افزار
-* ترویج همکاری تیمی و انتقال دانش
-* یادگیری مداوم فناوری‌های جدید
+- توسعه نرم‌افزارهای وب باکیفیت
+- ایجاد معماری‌های پایدار و مقیاس‌پذیر
+- ارائه تجربه کاربری حرفه‌ای
+- رعایت استانداردهای مدرن توسعه نرم‌افزار
+- ترویج همکاری تیمی و انتقال دانش
+- یادگیری مداوم فناوری‌های جدید
 
 ---
 
@@ -256,38 +255,38 @@ Code Watch یک تیم توسعه وب چندتخصصی است که با هدف 
 
 ### فرانت‌اند
 
-* HTML5
-* CSS3
-* JavaScript
-* TypeScript
-* React
-* Next.js
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React
+- Next.js
 
 ### بک‌اند
 
-* Node.js
-* PHP
-* Express.js
-* REST API
+- Node.js
+- PHP
+- Express.js
+- REST API
 
 ### پایگاه داده
 
-* MySQL
-* PostgreSQL
-* MongoDB
+- MySQL
+- PostgreSQL
+- MongoDB
 
 ### طراحی
 
-* Figma
-* Photoshop
-* Illustrator
+- Figma
+- Photoshop
+- Illustrator
 
 ### ابزارها
 
-* Git
-* GitHub
-* VS Code
-* Docker
+- Git
+- GitHub
+- VS Code
+- Docker
 
 ---
 
@@ -321,13 +320,13 @@ Code Watch یک تیم توسعه وب چندتخصصی است که با هدف 
 
 ## 💡 ارزش‌های اصلی
 
-* کدنویسی تمیز
-* امنیت
-* عملکرد بالا
-* تمرکز بر کاربر
-* یادگیری مداوم
-* همکاری تیمی
-* نگهداری بلندمدت
+- کدنویسی تمیز
+- امنیت
+- عملکرد بالا
+- تمرکز بر کاربر
+- یادگیری مداوم
+- همکاری تیمی
+- نگهداری بلندمدت
 
 ---
 
