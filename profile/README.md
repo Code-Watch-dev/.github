@@ -5,6 +5,11 @@
 </p>
 <div align="center">
 
+![Frontend](https://img.shields.io/badge/Frontend-Development-blue)
+![Backend](https://img.shields.io/badge/Backend-Development-green)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-purple)
+![Open Source](https://img.shields.io/badge/Open%20Source-Friendly-orange)
+
 # 👨‍💻 Code Watch
 
 ### Building Modern Web Experiences
