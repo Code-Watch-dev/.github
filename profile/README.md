@@ -1,7 +1,7 @@
 # Code Watch
 
 <p align="center">
-  <img src="./img/banner.png" alt="Code Watch Banner">
+  <img src="./img/typography.svg" alt="Code Watch Banner">
 </p>
 <div align="center">
 
